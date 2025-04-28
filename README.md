@@ -26,13 +26,13 @@ These modifications improve:
 ## 📷 Project Images
 
 ### 🔧 Power supply installation
-<img src="IMG20252.jpg" width="500"/>
+<img src="IMG20252.jpg" width="300"/>
 
 ### 🧹 Old electronics removed
-<img src="IMG20259.jpg" width="500"/>
+<img src="IMG20259.jpg" width="300"/>
 
 ### 🏗️ Printer frame ready for upgrades
-<img src="IMG945.jpg" width="500"/>
+<img src="IMG945.jpg" width="300"/>
 
 
 ---
