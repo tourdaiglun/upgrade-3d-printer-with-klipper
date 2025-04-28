@@ -34,6 +34,7 @@ These modifications improve:
 ### 🏗️ Printer frame ready for upgrades
 ![Printer frame ready](IMG945.jpg)
 
+
 ---
 
 # 🇫🇷 Description du projet (FRANÇAIS)
@@ -57,17 +58,6 @@ Ces modifications permettent :
 - ✅ Une meilleure stabilité du système
 - ✅ Une préparation pour des évolutions futures
 
----
 
-## 📷 Images du projet
-
-### 🔧 Installation des alimentations
-![Installation des alimentations](IMG20252.jpg)
-
-### 🧹 Électroniques d'origine retirées
-![Électroniques retirées](IMG20259.jpg)
-
-### 🏗️ Châssis de l'imprimante prêt pour la mise à jour
-![Châssis prêt](IMG945.jpg)
 
 ---
